@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :qiaomiao
+  username               : qiaomiao
 facebook:
   username               :
   app_id                 :
@@ -67,13 +67,13 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Walk through a long twilight struggle to see a new world."
   location         : "Beijing"
-  email            : [qiaomiao@me.com]
+  email            : "qiaomiao@me.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : RoyQM
   google_plus      :
@@ -84,7 +84,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : KonigsTiger
   tumblr           :
   twitter          :
   vine             :
