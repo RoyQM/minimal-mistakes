@@ -1,18 +1,10 @@
 ---
-title: "About Me"
-layout: single
-excerpt: 
-sitemap: false
-permalink: /about.html
+permalink: /about/
+title: 
+excerpt: "1234"
 
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+share: false
+author: false
 ---
 
 About Me!
