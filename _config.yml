@@ -6,17 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+
+title                    : "EndPoint"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Qiao Miao"
+description              : "在群星的尽头，便是第二基地"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :qiaomiao
 facebook:
   username               :
   app_id                 :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Qiao Miao"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Walk through a long twilight struggle to see a new world."
+  location         : "Beijing"
+  email            :[qiaomiao@me.com](mailto:qiaomiao@me.com)
   uri              :
   bitbucket        :
   codepen          :
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :https://cn.linkedin.com/in/miao-qiao-0a8873bb
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -88,7 +88,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            :http://weibo.com/qiaomiao/
   xing             :
   youtube          :
 
