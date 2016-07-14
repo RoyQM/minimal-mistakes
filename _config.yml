@@ -67,7 +67,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Walk through a long twilight struggle to see a new world."
   location         : "Beijing"
-  email            :[qiaomiao@me.com](mailto:qiaomiao@me.com)
+  email            :qiaomiao@me.com
   uri              :
   bitbucket        :
   codepen          :
@@ -75,7 +75,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :https://github.com/RoyQM/
   google_plus      :
   keybase          :
   instagram        :
