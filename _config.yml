@@ -8,7 +8,7 @@
 # Site Settings
 
 title                    : "EndPoint"
-title_separator          : "-"
+title_separator          : "Qiao Miao's 2nd Foundation"
 name                     : "Qiao Miao"
 description              : "在群星的尽头，便是第二基地"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -29,9 +29,17 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : 
+bing_site_verification   : 
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -67,7 +75,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Walk through a long twilight struggle to see a new world."
   location         : "Beijing"
-  email            : "qiaomiao@me.com"
+  email            : `qiaomiao@me.com`
   uri              :
   bitbucket        :
   codepen          :
@@ -84,7 +92,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : KonigsTiger
+  steam            : qiaomiaoroy
   tumblr           :
   twitter          :
   vine             :
